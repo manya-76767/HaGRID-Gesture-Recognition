@@ -44,3 +44,4 @@ dislike, fist, four, like, mute, ok, one, palm, peace, peace_inverted, rock, sto
 ## Author
 
 Manya Arora
+Manya Pandey
