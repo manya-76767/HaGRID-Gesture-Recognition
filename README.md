@@ -27,10 +27,27 @@ dislike, fist, four, like, mute, ok, one, palm, peace, peace_inverted, rock, sto
 
 ## Results
 
-| Model | Validation Accuracy |
-|---------|---------|
-| ResNet-50 | 83.23% |
-| Swin Transformer | Add your result |
+## Results
+
+| Model            | Best Validation Accuracy | Test Accuracy |
+| ---------------- | -----------------------: | ------------: |
+| ResNet-50        |                   92.77% |        93.72% |
+| Swin Transformer |                   92.51% |        92.52% |
+
+### ResNet-50 Metrics
+
+* Accuracy: 93.72%
+* Precision: 93.83%
+* Recall: 93.72%
+* F1 Score: 93.74%
+
+### Swin Transformer Metrics
+
+* Accuracy: 92.52%
+* Precision: 92.64%
+* Recall: 92.52%
+* F1 Score: 92.51%
+
 
 ## Technologies
 
