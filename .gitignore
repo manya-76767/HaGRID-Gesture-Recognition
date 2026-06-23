@@ -1,0 +1,9 @@
+venv/
+Dataset/
+Dataset_Split/
+
+__pycache__/
+*.pyc
+
+*.pth
+*.pt
