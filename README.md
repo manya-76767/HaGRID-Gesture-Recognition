@@ -41,7 +41,14 @@ dislike, fist, four, like, mute, ok, one, palm, peace, peace_inverted, rock, sto
 - NumPy
 - Matplotlib
 
-## Author
+## Contributors
 
-Manya Arora
-Manya Pandey
+- Manya Arora
+- Manya Pandey
+
+## Repository Structure
+
+- Code/ : Training and preprocessing scripts
+- Figures/ : Accuracy, loss and confusion matrix plots
+- Results/ : Evaluation metrics
+- Paper/ : Screenshots and project documentation
